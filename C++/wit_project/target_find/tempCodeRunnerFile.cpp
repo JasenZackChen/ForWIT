@@ -1,0 +1,1 @@
+Point points_array[MAX_POINT];
